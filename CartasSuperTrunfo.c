@@ -39,7 +39,7 @@ printf ("Área: %f \n", area1); // %f é o formato da variável float area
 
 printf ("PIB: %f \n", pib1); // %f é o formato da variável float pib
 
-printf ("Ponto turístico: %d \n\n", pontoturistico1); // %d é o formato da variável int pontoturistico
+printf ("Ponto turístico: %d \n", pontoturistico1); // %d é o formato da variável int pontoturistico
   // Área para exibição dos dados da cidade
   
  printf ("Carta 2: \n" );
