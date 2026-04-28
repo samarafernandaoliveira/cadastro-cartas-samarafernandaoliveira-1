@@ -218,10 +218,10 @@ printf("\n Carta 1 (%s): %.2f \n", nomedacidade1, soma1);
 printf("\n Carta 2 (%s): %.2f \n", nomedacidade2, soma2);
 
 if(soma1 == soma2){
-    printf("Empatou! \n");
+    printf("\n Empatou! \n");
 }else{
     char* vencedor = (soma1 > soma2) ? nomedacidade1 : nomedacidade2;
-    printf("Vencedor: %s \n", vencedor);
+    printf("\n Vencedor: %s \n", vencedor);
 }
 
 return 0;
